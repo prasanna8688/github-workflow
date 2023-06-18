@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: dockerhub9949/github-actions:latest
+          tags: dockerhub9949/raju:latest
